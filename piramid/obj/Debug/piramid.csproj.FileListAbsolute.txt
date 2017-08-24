@@ -1,0 +1,12 @@
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\obj\Debug\piramid.csprojResolveAssemblyReference.cache
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\bin\Debug\piramid.exe.config
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\bin\Debug\piramid.exe
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\bin\Debug\piramid.pdb
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\obj\Debug\piramid.exe
+c:\users\murad\documents\visual studio 2017\Projects\piramid\piramid\obj\Debug\piramid.pdb
+C:\Projects\piramid\piramid\bin\Debug\piramid.exe.config
+C:\Projects\piramid\piramid\bin\Debug\piramid.exe
+C:\Projects\piramid\piramid\bin\Debug\piramid.pdb
+C:\Projects\piramid\piramid\obj\Debug\piramid.csproj.CoreCompileInputs.cache
+C:\Projects\piramid\piramid\obj\Debug\piramid.exe
+C:\Projects\piramid\piramid\obj\Debug\piramid.pdb

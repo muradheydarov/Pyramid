@@ -1,0 +1,13 @@
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.exe.config
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.exe
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.pdb
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.exe
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.pdb
+c:\Users\Murad\documents\visual studio 2017\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.csprojResolveAssemblyReference.cache
+C:\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.exe.config
+C:\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.exe
+C:\Projects\piramid\pyramid reverse\bin\Debug\pyramid reverse.pdb
+C:\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.csprojResolveAssemblyReference.cache
+C:\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.csproj.CoreCompileInputs.cache
+C:\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.exe
+C:\Projects\piramid\pyramid reverse\obj\Debug\pyramid reverse.pdb
